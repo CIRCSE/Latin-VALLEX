@@ -1,6 +1,6 @@
 # Latin-VALLEX: Latin Valency lexicon
 
-Latin VALLEX is a valency lexicon for Latin. It was built in close connection with the semantic/pragmatic annotation of the [Index Thomisticus Treebank](https://itreebank.marginalia.it/) and the Latin Dependency Treebank.
+_Latin VALLEX_ is a valency lexicon for Latin. It was built in close connection with the semantic/pragmatic annotation of the [Index Thomisticus Treebank](https://itreebank.marginalia.it/) and the Latin Dependency Treebank.
 
 Latin-VALLEX currently contains around 2,500 valency frames for more than 1,000 lexical entries.
 
@@ -12,12 +12,12 @@ Latin-VALLEX is downloadable for free from https://itreebank.marginalia.it/doc/v
 
 ## About
 
-To cite all versions of Latin-VALLEX, you can adapt the following:
+To cite Latin-VALLEX (first release), you can adapt the following:
 
->Berta González Saavedra, Marco Passarotti (2018) *Latin-VALLEX*. DOI: XXX
+>Berta González Saavedra, Marco Passarotti (2018) *Latin-VALLEX*. [![DOI](https://zenodo.org/badge/167509050.svg)](https://zenodo.org/badge/latestdoi/167509050)
 
-DOIs for the individual releases of Latin-VALLEX are available here: XXX
+To cite **all versions/releases** of Latin-VALLEX, use DOI: [10.5281/zenodo.2549277](https://doi.org/10.5281/zenodo.2549277)
 
 Paper to cite:
 
-Passarotti Marco, González Saavedra Berta, Onambele Christophe. 2016. [Latin Vallex. A Treebank-based Semantic Valency Lexicon for Latin](https://pdfs.semanticscholar.org/7417/39723752c54b5f8160a38df75d348805bb22.pdf). In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, May 23-28, 2016, pp. 2599-2606.
+Passarotti Marco, González Saavedra Berta, Onambele Christophe. 2016. _[Latin Vallex. A Treebank-based Semantic Valency Lexicon for Latin](https://pdfs.semanticscholar.org/7417/39723752c54b5f8160a38df75d348805bb22.pdf)_. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, May 23-28, 2016, pp. 2599-2606.
