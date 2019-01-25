@@ -8,13 +8,13 @@ Data are stored in a single XML file, whose structure is the same of that for th
 
 Latin-VALLEX is accessible through a PML-TQ web application at https://itreebank.marginalia.it/vallex/app/form.
 
-Latin-VALLEX is downloadable for free from https://itreebank.marginalia.it/doc/vallex_130317.zip and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Latin-VALLEX is downloadable for free from https://itreebank.marginalia.it/doc/vallex_130317.zip and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ## About
 
 To cite all versions of Latin-VALLEX, you can adapt the following:
 
->Berta Gonzalez Saavedra, Marco Passarotti (2018) *Latin-VALLEX*. DOI: XXX
+>Berta González Saavedra, Marco Passarotti (2018) *Latin-VALLEX*. DOI: XXX
 
 DOIs for the individual releases of Latin-VALLEX are available here: XXX
 
