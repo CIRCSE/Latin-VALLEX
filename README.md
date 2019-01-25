@@ -1,6 +1,6 @@
 # Latin-VALLEX: Latin Valency lexicon
 
-The Latin Valency Lexicon Latin-VALLEX was built in close connection with the semantic/pragmatic annotation of the [Index Thomisticus Treebank](https://itreebank.marginalia.it/) and the Latin Dependency Treebank.
+Latin VALLEX is a valency lexicon for Latin. IT was built in close connection with the semantic/pragmatic annotation of the [Index Thomisticus Treebank](https://itreebank.marginalia.it/) and the Latin Dependency Treebank.
 
 Latin-VALLEX currently contains around 2,500 valency frames for more than 1,000 lexical entries.
 
