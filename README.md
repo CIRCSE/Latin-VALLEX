@@ -22,4 +22,4 @@ Paper to cite:
 
 Passarotti Marco, González Saavedra Berta, Onambele Christophe. 2016. _[Latin Vallex. A Treebank-based Semantic Valency Lexicon for Latin](https://pdfs.semanticscholar.org/7417/39723752c54b5f8160a38df75d348805bb22.pdf)_. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, May 23-28, 2016, pp. 2599-2606.
 
-Latin-VALLEX (first release) is also available in the ILC4CLARIN repository of  CLARIN-IT: [ http://hdl.handle.net/20.500.11752/OPEN-529]( http://hdl.handle.net/20.500.11752/OPEN-529)
+Latin-VALLEX (first release) is also available in the ILC4CLARIN repository of  CLARIN-IT: [ http://hdl.handle.net/20.500.11752/OPEN-529]( http://hdl.handle.net/20.500.11752/OPEN-529).
